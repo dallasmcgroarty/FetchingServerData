@@ -1,2 +1,2 @@
 # FetchingServerData
-fetch data from server and dynamically update the webpage
+fetch data from server using javascript and fetch API and dynamically update the webpage
